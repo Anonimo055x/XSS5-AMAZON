@@ -1,7 +1,7 @@
 # XSS5-AMAZON
 
 
-https://uploaddeimagens.com.br/imagens/oYXDctM
+<a href="https://ibb.co/tJSGxHJ"><img src="https://uploaddeimagens.com.br/imagens/oYXDctM" alt="Screenshot_2022-05-27_16_04_05" border="0"></a>
 
 
 Modo de uso:
