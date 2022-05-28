@@ -1,7 +1,7 @@
 # XSS5-AMAZON
 
 
-https://www.imagemhost.com.br/image/2Xn6Cy
+https://uploaddeimagens.com.br/imagens/oYXDctM
 
 
 Modo de uso:
